@@ -15,3 +15,4 @@ C:\Users\wim\source\repos\MySQLDataAdapterTest\MySQLdataAdapterApp\obj\Debug\MyS
 C:\Users\wim\source\repos\MySQLDataAdapterTest\MySQLdataAdapterApp\obj\Debug\MySQLdataAdapterApp.pdb
 C:\Users\wim\source\repos\MySQLDataAdapterTest\MySQLdataAdapterApp\obj\Debug\MySQLdataAdapterApp.mainForm.resources
 C:\Users\wim\source\repos\MySQLDataAdapterTest\MySQLdataAdapterApp\obj\Debug\MySQLdataAdapterApp.invulForm.resources
+C:\Users\wim\source\repos\MySQLDataAdapterTest\MySQLdataAdapterApp\obj\Debug\MySQLDataAdapterApp.csproj.CoreCompileInputs.cache

@@ -20,7 +20,7 @@ namespace MySQLdataAdapterApp
         MySqlCommandBuilder myCommandBuidler;
         DataTable myTable;
         string connectionString;
-        string selectQuery = "SELECT productNaam, productStock, beschikbaar FROM producten";
+        string selectQuery = "SELECT * FROM producten";
         public mainForm()
         {
             InitializeComponent();
